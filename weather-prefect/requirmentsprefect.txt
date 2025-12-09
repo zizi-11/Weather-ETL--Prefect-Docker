@@ -1,0 +1,4 @@
+prefect==3.6.2
+requests
+pandas
+mysql-connector-python
